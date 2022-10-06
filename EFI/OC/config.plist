@@ -1442,13 +1442,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02723405QXG91QUE</string>
+			<string>YOUR MOTHERBOARD ID</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>oDvjYH45</data>
+			<data>YOUR ROM</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1456,9 +1456,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookAir7,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TTZYCG940</string>
+			<string>YOUR SERIAL</string>
 			<key>SystemUUID</key>
-			<string>A5B4A18C-7A12-4F2E-A6FA-E91477CA1FB2</string>
+			<string>YOUR UUID</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
