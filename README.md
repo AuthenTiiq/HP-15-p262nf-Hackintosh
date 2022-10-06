@@ -4,7 +4,7 @@
 
 **Configuration**
 
-You need to modify the config.plist with your smbios generate with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+You need to modify the config.plist with your smbios, generate with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and use "MacBookAir7,2"
 
 **Known issues**
 
