@@ -4,7 +4,7 @@
 
 **Configuration**
 
-You need to modify the config.plist with your smbios, generate with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and use "MacBookAir7,2"
+You need to modify the config.plist with your smbios, generate with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and use "MacBookAir8,1"
 
 **Known issues**
 
